@@ -11,7 +11,8 @@ Since Meta Spark does not offer the capability to directly apply outlines to 2D 
 
 ## Scene
 Before we begin, make sure you have the following object in the scene:
-- Face Tracker
-	- 3D Text (z-index scale: 0)
-	- Canvas
-		- Rectangle (Full width, full height)
+
+└─── Face Tracker
+     ├───3D Text (z-index scale: 0)
+     └───Canvas
+         └───Rectangle (Full width, full height)
