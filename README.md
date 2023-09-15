@@ -15,4 +15,4 @@ Before we begin, make sure you have the following object in the scene:
 └─── Face Tracker
      ├───3D Text (z-index scale: 0)
      └───Canvas
-         └───Rectangle (Full width, full height)
+          └───Rectangle (Full width, full height)
