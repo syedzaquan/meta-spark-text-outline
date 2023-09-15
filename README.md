@@ -32,10 +32,10 @@ Options for hidden materials   |  Options for outline materials
 ## Options
 **1. Change outline color and text color** <br />
 ![outline-color](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/e88ad9fc-9aab-4f5a-9503-4d5bfd19632e)
-- Highlight and Midtone Color: Text color
-- Shadow Color: Outline color
+- **Highlight and Midtone Color:** Text color
+- **Shadow Color:** Outline color
 
 **2. Change outline thickness** <br />
 ![outline-width](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/b173a36f-0a19-47e4-88aa-59d07b51a23c)
-- X: X axis thickness
-- Y: Y axis thickness
+- **X:** X axis thickness
+- **Y:** Y axis thickness
