@@ -1,3 +1,4 @@
+
 # Meta Spark Text Outline
 Since Meta Spark does not offer the capability to directly apply outlines to 2D Text components, I have implemented a workaround by incorporating an outline through a render pass.
 
@@ -13,6 +14,6 @@ Since Meta Spark does not offer the capability to directly apply outlines to 2D 
 Before we begin, make sure you have the following object in the scene:
 
 └─── Face Tracker<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├───3D Text (z-index scale: 0) <br />
-&nbsp;&nbsp;└───Canvas <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───Rectangle (Full width, full height)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├───3D Text (z-index scale: 0) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───Canvas <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───Rectangle (Full width, full height)
