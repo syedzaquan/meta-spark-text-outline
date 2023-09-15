@@ -1,2 +1,2 @@
-# meta-spark-text-outline
+# Meta Spark Text Outline
 Since Meta Spark don't have ability to add outline to 2D Text component, i've created a workaround to add outline through render pass
