@@ -25,13 +25,6 @@ Before we begin, make sure you have the following object in the scene:
 1. hidden (assign to 3D Text)
 2. outline (assign to Rectangle)
 
-### 1. hidden
-Options for hidden materials
-![hidden-materials](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/21a8b28f-bba1-488c-a080-8f8433fabeef)
-
-Options for outline materials
-![outline-materials](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/6f55f27f-63d3-4556-b76d-72d7eda78f0a)
-
 Options for hidden materials   |  Options for outline materials
 :-----------------------------:|:-----------------------------:
 ![hidden-materials](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/21a8b28f-bba1-488c-a080-8f8433fabeef)  |  ![outline-materials](https://github.com/syedzaquan/meta-spark-text-outline/assets/47650227/6f55f27f-63d3-4556-b76d-72d7eda78f0a)
